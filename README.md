@@ -1,5 +1,5 @@
-# A longitudinal study of biodiversity reporting by Brazilian companies
-Supporting code and raw text data for "A longitudinal study of biodiversity reporting by Brazilian companies"
+# A decade of biodiversity conservation: Insights on corporate social responsibility in an emerging market context
+Supporting code and raw text data for "A decade of biodiversity conservation: Insights on corporate social responsibility in an emerging market context"
 
 ## Raw text
 The raw text exported from sustainability reports is available in `raw_texts`
